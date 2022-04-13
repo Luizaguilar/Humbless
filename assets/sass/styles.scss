@@ -1,0 +1,23 @@
+/*imports*/
+
+/*MISCELANEOUS*/
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@1,500&family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Comfortaa:wght@300&family=Roboto&display=swap');
+@import './misc/normalize'; 
+@import './misc/variables'; 
+@import './misc/mixins'; 
+@import './misc/animations'; 
+
+/*PARTIALS*/
+
+@import './partials/header'; 
+@import './partials/footer'; 
+
+/*VIEWS*/
+
+@import './views/home'; 
+@import './views/noticias';
+@import './views/sneakers'; 
+@import './views/streetwear'; 
+@import './views/accesorios';
+@import './views/contacto';   
