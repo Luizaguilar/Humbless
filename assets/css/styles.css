@@ -249,7 +249,7 @@ img {
 @media(min-width:728px) {
 
     
-.noticias_grid {
+.noticias {
 
     display: grid;
     grid-template-columns: 1fr 1fr;
