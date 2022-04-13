@@ -94,7 +94,7 @@ header .menu__item {
   border-color: var(black); }
 
 .menu .menu__item .menu__link {
-  font-size: 18.5px;
+  font-size: 14px;
   padding: 1rem; }
 
 .footer {
